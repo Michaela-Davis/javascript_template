@@ -33,4 +33,4 @@ _Please contact michaela.delight@gmail.com with questions or concerns._
 
 *MIT License*
 
-Copyright (c) 2017 **_ Michaela Davis_**
+Copyright (c) 2017 **_Michaela Davis_**
